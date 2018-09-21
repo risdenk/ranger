@@ -167,7 +167,7 @@
         <httpcomponents.httpmime.version>4.5.3</httpcomponents.httpmime.version>
         <javassist.version>3.12.1.GA</javassist.version>
         <javax.persistence.version>2.1.0</javax.persistence.version>
-        <javax.servlet.version>3.1.0</javax.servlet.version>
+        <javax.servlet.version>4.0.1</javax.servlet.version>
         <javax-inject.version>1</javax-inject.version>
         <jericho.html.version>3.3</jericho.html.version>
         <jersey-bundle.version>1.19.3</jersey-bundle.version>

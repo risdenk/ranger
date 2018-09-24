@@ -206,7 +206,7 @@
         <solr.version>5.5.4</solr.version>
         <spring-ldap-core.version>1.3.1.RELEASE</spring-ldap-core.version>
         <springframework.security.version>3.2.10.RELEASE</springframework.security.version>
-        <springframework.test.version>3.2.10.RELEASE</springframework.test.version>
+        <springframework.test.version>5.1.0.RELEASE</springframework.test.version>
         <springframework.version>3.2.10.RELEASE</springframework.version>
         <storm.version>1.0.2</storm.version>
         <tomcat.embed.version>7.0.77</tomcat.embed.version>

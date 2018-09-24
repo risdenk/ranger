@@ -211,7 +211,7 @@
         <storm.version>1.0.2</storm.version>
         <tomcat.embed.version>7.0.77</tomcat.embed.version>
         <velocity.version>1.7</velocity.version>
-        <zookeeper.version>3.4.6</zookeeper.version>
+        <zookeeper.version>3.4.13</zookeeper.version>
         <hive.thrift.version>0.9.3</hive.thrift.version>
     </properties>
     <profiles>

@@ -174,7 +174,7 @@
         <jersey-client.version>2.6</jersey-client.version>
         <jersey-core.version>1.19.3</jersey-core.version>
         <jersey-server.version>1.19.3</jersey-server.version>
-        <jersey-spring.version>1.19.3</jersey-spring.version>
+        <jersey-spring.version>1.19.4</jersey-spring.version>
         <jettison.version>1.1</jettison.version>
         <jline.version>0.9.94</jline.version>
         <joda-time.version>2.5</joda-time.version>

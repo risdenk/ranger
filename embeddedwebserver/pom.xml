@@ -61,7 +61,7 @@
         <dependency>
             <groupId>org.eclipse.jdt.core.compiler</groupId>
             <artifactId>ecj</artifactId>
-            <version>P20140317-1600</version>
+            <version>4.6.1</version>
         </dependency>
         <dependency>
             <groupId>log4j</groupId>

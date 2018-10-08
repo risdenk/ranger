@@ -120,7 +120,7 @@
         <!-- versions are in alphabetical order -->
         <antlr.version>3.5.2</antlr.version>
         <aopalliance.version>1.0</aopalliance.version>
-        <apacheds.version>2.0.0-M22</apacheds.version>
+        <apacheds.version>2.0.0.AM25</apacheds.version>
         <asm.all.version>3.2</asm.all.version>
         <aspectj.version>1.8.2</aspectj.version>
         <atlas.version>0.7-incubating</atlas.version>
